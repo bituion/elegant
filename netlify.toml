@@ -1,4 +1,4 @@
 [build]
-  base = "./documentation"
+  base = "./tree/master/documentation"
   publish = "./tree/master/documentation/output"
   command = "invoke plugins-sync publish"
